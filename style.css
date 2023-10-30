@@ -597,11 +597,11 @@ header.sticky{
         display: block;
     }
     .home{
-        min-height: 80vh;
+        min-height: 40vh;
     }
     .navlist{
         position: absolute;
-        top: 1000px;
+        top: 1200px;
         left: 0;
         right: 0;
         flex-direction: column;
