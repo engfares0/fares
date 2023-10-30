@@ -601,7 +601,7 @@ header.sticky{
     }
     .navlist{
         position: absolute;
-        top: 300px;
+        top: 12000px;
         left: 0;
         right: 0;
         flex-direction: column;
